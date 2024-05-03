@@ -262,6 +262,13 @@ img {
   border-radius: 0.5rem;
 }
 
+.cvBtn{
+  padding: 10px 10px;
+  margin-top: 20px;
+  font-weight: bold;
+  background-color: rgb(0, 191, 255);
+}
+
 /* ===== SKILLS =====*/
 .skills__container {
   row-gap: 2rem;
